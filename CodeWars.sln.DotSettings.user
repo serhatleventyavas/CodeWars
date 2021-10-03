@@ -11,6 +11,9 @@
     &lt;TestId&gt;xUnit::C6517A09-7331-45F2-8F56-82835AEE92A2::net5.0::CodeWarsTest.CountingDuplicatesTest&lt;/TestId&gt;
     &lt;TestId&gt;xUnit::C6517A09-7331-45F2-8F56-82835AEE92A2::net5.0::CodeWarsTest.DirectionsReductionTest.Test1&lt;/TestId&gt;
     &lt;TestId&gt;xUnit::C6517A09-7331-45F2-8F56-82835AEE92A2::net5.0::CodeWarsTest.DirectionsReductionTest&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::C6517A09-7331-45F2-8F56-82835AEE92A2::net5.0::CodeWarsTest.BuildTowerTest.Test1&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::C6517A09-7331-45F2-8F56-82835AEE92A2::net5.0::CodeWarsTest.BuildTowerTest.Test2&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::C6517A09-7331-45F2-8F56-82835AEE92A2::net5.0::CodeWarsTest.BuildTowerTest.Test3&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String>
 	</wpf:ResourceDictionary>
