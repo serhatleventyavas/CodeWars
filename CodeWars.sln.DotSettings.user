@@ -1,25 +1,14 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4f8c80eb_002Df1f0_002D4706_002D8ffe_002D6d2e50ae6081/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test1 #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
-  &lt;TestAncestor&gt;
-    &lt;TestId&gt;xUnit::C6517A09-7331-45F2-8F56-82835AEE92A2::net5.0::CodeWarsTest.WhoIsOnlineTest&lt;/TestId&gt;
-  &lt;/TestAncestor&gt;
-&lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b6c77088_002De969_002D46ea_002Da631_002Dd6a8f8f11517/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b6c77088_002De969_002D46ea_002Da631_002Dd6a8f8f11517/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
   &lt;TestAncestor&gt;
     &lt;TestId&gt;xUnit::C6517A09-7331-45F2-8F56-82835AEE92A2::net5.0::CodeWarsTest.NumberOfOccurrencesTest&lt;/TestId&gt;
     &lt;TestId&gt;xUnit::C6517A09-7331-45F2-8F56-82835AEE92A2::net5.0::CodeWarsTest.GetPopulationAndFitnessesTest&lt;/TestId&gt;
     &lt;TestId&gt;xUnit::C6517A09-7331-45F2-8F56-82835AEE92A2::net5.0::CodeWarsTest.SumOfAllTheMultiples3Or5Test&lt;/TestId&gt;
     &lt;TestId&gt;xUnit::C6517A09-7331-45F2-8F56-82835AEE92A2::net5.0::CodeWarsTest.WhoIsOnlineTest.Test1&lt;/TestId&gt;
     &lt;TestId&gt;xUnit::C6517A09-7331-45F2-8F56-82835AEE92A2::net5.0::CodeWarsTest.WhoIsOnlineTest&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::C6517A09-7331-45F2-8F56-82835AEE92A2::net5.0::CodeWarsTest.CountingDuplicatesTest.Test3&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::C6517A09-7331-45F2-8F56-82835AEE92A2::net5.0::CodeWarsTest.CountingDuplicatesTest&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c5a0c7f0_002Dac99_002D4a23_002Da43a_002D7e23717f5c49/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="WhoIsOnlineTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
-  &lt;TestAncestor&gt;
-    &lt;TestId&gt;xUnit::C6517A09-7331-45F2-8F56-82835AEE92A2::net5.0::CodeWarsTest.WhoIsOnlineTest&lt;/TestId&gt;
-    &lt;TestId&gt;xUnit::C6517A09-7331-45F2-8F56-82835AEE92A2::net5.0::CodeWarsTest.DisemvowelTrollsTest.Test1&lt;/TestId&gt;
-    &lt;TestId&gt;xUnit::C6517A09-7331-45F2-8F56-82835AEE92A2::net5.0::CodeWarsTest.SumOfTwoLowestPositiveIntegersTest.Test1&lt;/TestId&gt;
-    &lt;TestId&gt;xUnit::C6517A09-7331-45F2-8F56-82835AEE92A2::net5.0::CodeWarsTest.SumOfTwoLowestPositiveIntegersTest&lt;/TestId&gt;
-    &lt;TestId&gt;xUnit::C6517A09-7331-45F2-8F56-82835AEE92A2::net5.0::CodeWarsTest.FindTheSmallestIntegerInTheArrayTest&lt;/TestId&gt;
-    &lt;TestId&gt;xUnit::C6517A09-7331-45F2-8F56-82835AEE92A2::net5.0::CodeWarsTest.ListFilteringTest&lt;/TestId&gt;
-  &lt;/TestAncestor&gt;
-&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
+	</wpf:ResourceDictionary>
